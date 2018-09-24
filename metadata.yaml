@@ -1,11 +1,16 @@
 _repo: Arqtiq-A-Study-of-the-Marvels-at-the-North-Pole_56696
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56696-h/images/cover.jpg
 creator:
   author:
     agent_name: Adolph, Anna
     gutenberg_agent_id: '48987'
     url: http://www.gutenberg.org/2009/agents/48987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56696#Arqtiq-A-Study-of-the-Marvels-at-the-North-Pole
 gutenberg_issued: '2018-03-07'
 gutenberg_type: Text
 identifiers:
